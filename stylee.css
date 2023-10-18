@@ -1,0 +1,132 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:#FBECB2;
+
+    
+}
+header { 
+    display: flex;
+    justify-content: left;
+    width:100%;
+    align-items:center;
+    box-shadow: 5px 10px #88888846;
+}
+
+header img {
+    width: 120px;
+    margin: 20px 50px;
+    border-radius: 50% ;
+}
+a {
+    text-decoration: none;
+    color:#5272F2;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display:inline;
+    justify-content: right;
+    margin-right: 50px;
+    
+
+}
+a:hover{
+    color:rgb(7, 11, 215);
+    font-size: xx-large;
+}
+
+a:active{
+    color:darkblue;
+}
+
+h2{
+    color: #99B080;
+}
+.sss{
+    text-align: center;
+    width: 80%;
+    margin: 30px auto;
+}
+.sss p{
+    text-align: center;
+    width: 80%;
+    margin: 30px auto;
+    color:#748E63;
+    font-weight: 800;
+    font-size: x-large;
+} 
+.sss h3 {
+    text-align: center;
+    width: 80%;
+    margin: 30px auto;
+    color:#748E63;
+
+
+}
+.propos img {
+    width: 800px;
+    height:800px;
+    margin: 25px 350px;
+   
+    
+}
+li {
+    margin-top: auto;
+    padding-left: 120px;
+    display: inline;
+    justify-content: center;
+    margin-right: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: larger;
+    text-decoration: none;
+}
+li:hover{
+    color:blue;
+    font-size: xx-large;
+}
+li:active{
+    color:blueviolet;
+}
+li a {
+    text-decoration: none;
+    color :black;
+   
+}
+#travail{
+    
+    margin: 50px 350px;
+    text-align:center ;
+
+}
+#audi{
+    margin:auto;
+    text-align: center;
+    background-color:#F9B572;
+
+}
+form{
+    text-align: center;
+    width:80%;
+    margin:auto;
+    padding-top: 50px;
+    font-weight: 800;
+  
+    
+    
+}
+input {
+    width: 40%;
+    }
+ #sub{
+    width: 10%;
+    height: 20%;
+    background-color: chocolate;
+    color: white;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+
+ }
+ footer{
+    text-align: center;
+    padding-top: 20px;
+ }
